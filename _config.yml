@@ -22,15 +22,14 @@ repository               : "rajeev-gangwar.github.io.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "5.5cmx5.5cm.jpg"
+  avatar           : "Profile.jpg"
   name             : "Rajeev Gangwar"
   pronouns         : # example: "He/Him"  
   bio              : "A Quantum Information Researcher"
   location         : "Haifa, Israel"
   employer         : "Department of Mathematics, Technion-Israel Institute of Technology"
   uri              : # URL
-  email            : "raju.gangwar420@gmail.com"
-  email : "raju.gangwar@campus.technion.ac.in"
+  email            : "raju.gangwar@campus.technion.ac.in"
 
   # Academic websites
   academia         : # URL
